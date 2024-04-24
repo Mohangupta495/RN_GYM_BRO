@@ -1,0 +1,1 @@
+export const themeTextColor="#309bffe6";
